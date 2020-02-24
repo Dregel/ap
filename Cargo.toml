@@ -1,0 +1,8 @@
+[package]
+name = "ap"
+version = "0.1.0"
+authors = ["David \"Dregel\" Bengtsson <david@witchcult.se>"]
+description = "Simple Rust library for parsing command line arguments."
+repository = "https://github.com/Dregel/ap"
+
+[dependencies]
